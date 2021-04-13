@@ -34,7 +34,7 @@
 			?>
 
             <div class="detalle">
-			<p>En este ejemplo se utiliza PHP para generar una imágen dinámica como CAPTCHA, cuya resolución es obligatoria para poder enviar el mensaje de consulta. <a target="_blank" href=https://github.com/nahuelmd/PHP-CAPTCHA">Ver código fuente en GitHub</a> </p>
+			<p>En este ejemplo se utiliza PHP para generar una imágen dinámica como CAPTCHA, cuya resolución es obligatoria para poder enviar el mensaje de consulta. <a target="_blank" href="https://github.com/nahuelmd/PHP-CAPTCHA">Ver código fuente en GitHub</a> </p>
 		    </div>
 
             <!-- Termina generacion captcha PHP -->
